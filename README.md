@@ -1,4 +1,14 @@
 ## Hi there 👋
+我是一名初级Java开发者，目前专注于Java技术。
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-xingchen&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yang-xingchen)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-trophy.vercel.app/?username=Yang-xingchen&theme=light)
+
+### 这是我的知识库，欢迎查漏补缺
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yang-xingchen&repo=my-java-knowledge-base)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Yang-xingchen/Yang-xingchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
